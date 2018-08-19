@@ -1,19 +1,19 @@
-/** Summer Java Assignment - Master of Science in Software Management Program
+/** Summer Assignment 2 - Master of Science in Software Management Program
  * <h1>Mysterious Safeguards</h1>
  * Program find the mysterious lifeguard that has minimum impact on swimming pool time
  * coverage based on the the maximum coverage of each lifeguards.
  * 
  * Input Files			: 1.in, 2.in, 3.in, 4.in, 5.in, 6.in, 7.in, 8.in, 9.in, 10.in
  * Output File			: 1.out, 2.out. 3.out, 4.out, 5.out, 6.out, 7.out, 8.out, 9.out, 10.out
- * Methods				: main(String[] args)
- * 						  sort(int count, int[][] timings) 
- * 						  quickSort(int lower_index, int higher_index) 
- * 						  swap(int first, int second)
- * 						  max_coverage(int employee_count, int[][] employee_timings)
+ * Methods			: main(String[] args)
+ * 				  sort(int count, int[][] timings) 
+ * 				  quickSort(int lower_index, int higher_index) 
+ * 				  swap(int first, int second)
+ * 				  max_coverage(int employee_count, int[][] employee_timings)
  * 
  * Exceptions			: IOException
  * 
- * IDE					: Eclipse IDE for Java Developers (4.8.0)
+ * IDE				: Eclipse IDE for Java Developers (4.8.0)
  * JDK version			: jdk1.8.0_172
  * 
  * @author	Sathish Marikani
